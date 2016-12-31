@@ -1,0 +1,38 @@
+body {
+	background-color: azure;
+	padding: 10px;
+	margin: 0px;
+}
+
+header {
+	padding-top: 15px;
+	padding-bottom: 20px;
+	padding-left: 15px; padding-right: 15px;
+	text-align: center;
+	background-color: aquamarine;
+	margin:0px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	margin:0px;
+}
+
+
+section {
+	background-color: turquoise; 
+	margin:0px;
+	padding-top: 15px;
+    padding-right: 25px;
+    padding-bottom: 15px;
+    padding-left: 25px;
+}
+
+div {
+	padding:20px;
+	margin:0px;
+}
